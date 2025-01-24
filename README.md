@@ -1,0 +1,1 @@
+A web application for filtering and viewing insurance details by plan, gender, and date range. Built with Java Spring Boot, JSP, and DAOs using the MVC pattern, it supports exporting results to Excel and PDF via Apache POI and iText.
